@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\bin\Debug\net8.0\LİNQ_Join_Practice.exe
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\bin\Debug\net8.0\LİNQ_Join_Practice.deps.json
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\bin\Debug\net8.0\LİNQ_Join_Practice.runtimeconfig.json
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\bin\Debug\net8.0\LİNQ_Join_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\bin\Debug\net8.0\LİNQ_Join_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\refint\LİNQ_Join_Practice.dll
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.pdb
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\LİNQ_Join_Practice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\LİNQ_Join_Practice\LİNQ_Join_Practice\obj\Debug\net8.0\ref\LİNQ_Join_Practice.dll

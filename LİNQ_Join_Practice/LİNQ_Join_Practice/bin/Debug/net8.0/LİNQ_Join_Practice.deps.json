@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LİNQ_Join_Practice/1.0.0": {
+        "runtime": {
+          "LİNQ_Join_Practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LİNQ_Join_Practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
